@@ -1,0 +1,17 @@
+stamp-component-stamped-name-default = Очень важная личность
+stamp-component-stamped-name-mime = Мим
+stamp-component-stamped-name-captain = Капитан
+stamp-component-stamped-name-centcom = Центральное Командование
+stamp-component-stamped-name-chaplain = Священник
+stamp-component-stamped-name-clown = Клоун
+stamp-component-stamped-name-cmo = Главный врач
+stamp-component-stamped-name-denied = ОТКЛОНЕНО
+stamp-component-stamped-name-approved = ОДОБРЕНО
+stamp-component-stamped-name-hop = Начальник отдела кадров
+stamp-component-stamped-name-hos = Глава охраны
+stamp-component-stamped-name-qm = Квартирмейстер
+stamp-component-stamped-name-rd = Директор по исследованиям
+stamp-component-stamped-name-warden = Надзиратель
+stamp-component-stamped-name-trader = Торговец
+stamp-component-stamped-name-syndicate = Синдикат
+stamp-component-stamped-name-ce = Главный инженер
